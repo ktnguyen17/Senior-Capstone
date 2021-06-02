@@ -5,7 +5,7 @@
 [Software Demo](https://youtu.be/SYP4UYh4N88)
 
 ## Software Architecture Diagram
-<img src="https://code.cs.earlham.edu/ktnguyen17/senior-capstone/-/raw/master/SAD.png" width="512">
+<img src="https://github.com/ktnguyen17/Senior-Capstone/blob/main/SAD.png" width="512">
 
 ## Dataset
 CASIA Online and Offline Chinese Handwriting Databases (http://www.nlpr.ia.ac.cn/databases/handwriting/Download.html)  
