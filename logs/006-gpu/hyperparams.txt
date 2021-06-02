@@ -1,0 +1,5 @@
+preprocessed
+samples number 750000
+batch size 64
+learning rate 0.001
+epochs num 5
